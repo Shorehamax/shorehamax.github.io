@@ -1,3 +1,3 @@
 # Personal Website
 
-Just my personal website for now. Vibe coded. 
+Just my personal github website for now. Vibe coded. 
